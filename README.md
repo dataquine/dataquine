@@ -8,7 +8,7 @@ Currently unemployed and looking for work from November 2023 onwards either in #
 
 *Ideally* something meaningful that tackles inequality and improves the lives of people in Scotland.
 
-Open minded as to role e.g.: #DataAnalytics, #DataScience or #DataEngineer.
+Open minded as to role e.g.: #DataAnalyst, #DataScientist or #DataEngineer.
 
 ## In case you were wondering
 Quine means woman or girl in Doric - a variety of Scots spoken in the North-East of Scotland.
