@@ -3,7 +3,7 @@
 Scottish senior web and software developer now testing whether the third act of my professional life is working with data.
 A career changer about to retrain in data analytics with the @CodeClan [Professional Data Analysis DR22 cohort](https://codeclan.com/courses/data-analysis/).
 
-## What I want. "I want" doesn't get, so pretty please
+## What I want, what I really, really want. "I want" doesn't get, so pretty please
 Currently unemployed and looking for work from November 2023 onwards either in #Glasgow or preferably remote. 
 
 *Ideally* something meaningful that tackles inequality and improves the lives of people in Scotland.
