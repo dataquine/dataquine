@@ -12,7 +12,7 @@ Currently unemployed and looking for work after the course from around November 
 ***Ideally*** meaningful work that tackles inequality and/or improves the lives of people in #Scotland. 
 Previously I've worked in the #Education, #SocialWork and #SocialCare sectors, all have been incredibly rewarding in ways other than money.
 
-Open minded as to role e.g. #DataAnalyst, #DataScientist or #DataEngineer whatever else as a label but deluged with data. Current skills more at the engineering end but I'm doing my best to learn what I can of the other disciplines and will continue to find out about whatever is necessary to do the job at hand. I practice what I preach regarding lifelong learning - self-funded on this course so I put my money where my little old lady mouth is.
+Open minded as to role e.g. #DataAnalyst, #DataScientist or #DataEngineer whatever else as a label but deluged with data. Current skills more at the engineering end but I'm doing my best to learn what I can of the other disciplines and will continue to find out about whatever is necessary to do the job at hand. I practice what I preach regarding lifelong learning - self-funded on this course so I put my money where my mouth is.
 
 ## What are my super powers? 🦸🏻‍♀️
 
