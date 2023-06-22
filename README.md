@@ -1,16 +1,27 @@
 # Lesley Duff aka Data Quine
-## Who am I?
-Scottish senior web and software developer now testing whether the third act of my professional life is working with data.
-A career changer about to retrain in data analytics with the @CodeClan [Professional Data Analysis DR22 cohort](https://codeclan.com/courses/data-analysis/).
+## Who am I? 🙋🏻‍♀️
 
-## What I want, what I really, really want. "I want" doesn't get, so pretty please
-Currently unemployed and looking for work from November 2023 onwards either in #Glasgow or preferably remote. 
+Scottish senior web and software developer now exploring whether the third act of my professional life is working with data.
 
-*Ideally* something meaningful that tackles inequality and improves the lives of people in Scotland.
+A career changer about to retrain with the [@CodeClan](https://github.com/codeclan) [Professional Data Analysis](https://codeclan.com/courses/data-analysis/) DR22 cohort.
 
-Open minded as to role e.g.: #DataAnalyst, #DataScientist or #DataEngineer.
+## What I want, what I really, *really* want. "I want" doesn't get, so pretty please 🙏
+
+Currently unemployed and looking for work from around November 2023 onwards either in #Glasgow or preferably remote. #Disabled and have found working from home since #COVID-19 tremendously enabling as it reduces some barriers for me.
+
+***Ideally*** meaningful work that tackles inequality and/or improves the lives of people in #Scotland. 
+Previously I've worked in the #Education, #SocialWork and #SocialCare sectors, all have been incredibly rewarding in ways other than money.
+
+Open minded as to role e.g. #DataAnalyst, #DataScientist or #DataEngineer whatever else as a label but deluged with data. Current skills more at the engineering end but I'm doing my best to learn what I can of the other disciplines and will continue to find out about whatever is necessary to do the job at hand. I practice what I preach regarding lifelong learning - self-funded on this course so I put my money where my little old lady mouth is.
+
+## What are my super powers? 🦸🏻‍♀️
+
+1. Finding things out. 
+2. People keep telling me I'm *"patient"* and *"good at explaining technical things to non-technical people"*.
+3. Solving problems and putting solutions in place to help prevent difficulties happening in the future.
 
 ## In case you were wondering
+
 Quine means woman or girl in Doric - a variety of Scots spoken in the North-East of Scotland.
 
 <!---
