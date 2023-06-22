@@ -19,7 +19,7 @@ Open minded as to role e.g. #DataAnalyst, #DataScientist or #DataEngineer whatev
 1. Finding things out.
 2. Connecting people with information.  
 3. People keep telling me I'm *"patient"* and *"good at explaining technical things to non-technical people"*.
-4. Automating repetitive tasks. Let the machines do those.
+4. Automating repetitive tasks. Let the machines do those, let the humans do the intelligence bit.
 5. Solving problems and putting solutions in place to help prevent difficulties happening in the future.
 
 ## In case you were wondering
