@@ -1,5 +1,5 @@
 # Lesley Duff aka Data Quine
-## Who I am
+## Who am I?
 Scottish senior web and software developer now testing whether the third act of my professional life is working with data.
 A career changer about to retrain in data analytics with the @CodeClan [Professional Data Analysis DR22 cohort](https://codeclan.com/courses/data-analysis/).
 
