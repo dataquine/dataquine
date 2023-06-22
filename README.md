@@ -26,6 +26,8 @@ Open minded as to role e.g. #DataAnalyst, #DataScientist or #DataEngineer whatev
 
 Quine means woman or girl in Doric - a variety of Scots spoken in the North-East of Scotland.
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Lesley Duff on LinkedIn](https://www.linkedin.com/in/lesleyduff)
+
 <!---
 dataquine/dataquine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
