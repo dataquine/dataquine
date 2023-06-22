@@ -29,6 +29,9 @@ Open minded as to role e.g. #DataAnalyst, #DataScientist or #DataEngineer whatev
 ## Tell me more, tell me more
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Lesley Duff on LinkedIn](https://www.linkedin.com/in/lesleyduff "You have seriously good taste if you've come this far and want more")
 
+## PS
+It's "Data Quine" not "Date a Quine". *Quite*, ***quite*** different.
+
 <!---
 dataquine/dataquine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
