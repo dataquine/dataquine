@@ -7,7 +7,7 @@ A career changer about to retrain with the [@CodeClan](https://github.com/codecl
 
 ## What I want, what I really, *really* want. "I want" doesn't get, so pretty please 🙏
 
-Currently unemployed and looking for work from around November 2023 onwards either in #Glasgow or preferably remote. #Disabled and have found working from home since #COVID-19 tremendously enabling as it reduces some barriers for me.
+Currently unemployed and looking for work after the course from around November 2023 onwards either in #Glasgow or preferably remote. #Disabled and have found working from home since #COVID-19 tremendously enabling as it reduces some barriers for me.
 
 ***Ideally*** meaningful work that tackles inequality and/or improves the lives of people in #Scotland. 
 Previously I've worked in the #Education, #SocialWork and #SocialCare sectors, all have been incredibly rewarding in ways other than money.
