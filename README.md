@@ -24,7 +24,7 @@ Open minded as to role e.g. #DataAnalyst, #DataScientist or #DataEngineer whatev
 
 ## In case you were wondering
 
-Quine means woman or girl in Doric - a variety of Scots spoken in the North-East of Scotland.
+'Quine' means woman or girl in Doric - a variety of Scots spoken in the North-East of Scotland.
 
 ## Tell me more, tell me more
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Lesley Duff on LinkedIn](https://www.linkedin.com/in/lesleyduff "You have seriously good taste if you've come this far and want more")
