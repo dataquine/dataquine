@@ -7,17 +7,17 @@ A career changer about to retrain with the [@CodeClan](https://github.com/codecl
 
 ## What I want, what I really, *really* want. "I want" doesn't get, so pretty please 🙏
 
-Currently unemployed and looking for work after the course from around November 2023 onwards either in #Glasgow or preferably remote. #Disabled and have found working from home since #COVID-19 tremendously enabling as it reduces some barriers for me.
+Currently unemployed due to cuts in Government funding and looking for work after the data course from around November 2023 onwards either in #Glasgow or preferably remote. #Disabled and have found working from home since #COVID-19 tremendously enabling as it reduces some barriers for me.
 
 ***Ideally*** meaningful work that tackles inequality and/or improves the lives of people in #Scotland. 
-Previously I've worked in the #Education, #SocialWork and #SocialCare sectors, all have been incredibly rewarding in ways other than money.
+Previously I've worked in #Education, #SocialWork and #SocialCare sectors, all have been incredibly rewarding in ways other than money.
 
 Open minded as to role e.g. #DataAnalyst, #DataScientist or #DataEngineer whatever else as a label but deluged with data. Current skills more at the engineering end but I'm doing my best to learn what I can of the other disciplines and will continue to find out about whatever is necessary to do the job at hand. I practice what I preach regarding lifelong learning - self-funded on this course so I put my money where my mouth is.
 
 ## What are my super powers? 🦸🏻‍♀️
 
 1. Finding things out.
-2. Connecting people with information.  
+2. Connecting people with information and each other.  
 3. People keep telling me I'm *"patient"* and *"good at explaining technical things to non-technical people"*.
 4. Automating drudgery and repetitive tasks. Let the machines do the donkey work, save the humans for the intelligence bit.
 5. Solving problems and putting solutions in place to help prevent difficulties in the future.
