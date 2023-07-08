@@ -3,7 +3,7 @@
 
 Scottish senior web and software developer now exploring whether the third act of my professional life is working with data.
 
-A career changer currently retraining with the [@CodeClan](https://github.com/codeclan) [Professional Data Analysis](https://codeclan.com/courses/data-analysis/) DR22 cohort.
+A career changer currently retraining with the [@CodeClan](https://github.com/codeclan) [Professional Data Analysis](https://codeclan.com/courses/data-analysis/) DR22 remote cohort.
 
 ## What I want, what I really, *really* want. "I want" doesn't get, so pretty please 🙏
 
