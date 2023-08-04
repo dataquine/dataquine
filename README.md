@@ -3,6 +3,8 @@
 
 Scottish senior web and software developer now exploring whether the third act of my professional life is working with data.
 
+## What's the plan?
+
 > The best laid schemes o’ Mice an’ Men
           Gang aft agley
 
