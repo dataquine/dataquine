@@ -7,7 +7,7 @@ Scottish senior web and software developer now exploring whether the third act o
           Gang aft agley
 
 A career changer. I was 4 weeks into a 14 week course retraining with the [@CodeClan](https://github.com/codeclan) [Professional Data Analysis](https://codeclan.com/courses/data-analysis/) DR22 remote cohort when CodeClan sadly went into liquidation.
-So I have a beginner level of R with data wrangling and cleaning but no certificate to show for it. And have lost a considerable amount of money in the process. The instructors were brilliant. Intense course, hard work and long hours but was really enjoying it. Was looking forward to future modules on visualisation and machine learning. CodeClan gave students avcess to the course materials we woild have received so Ill carry on self-learning from their content in the short term.
+So I have a beginner level of R with data wrangling and cleaning but no certificate to show for it. And have lost a considerable amount of money in the process. The instructors were brilliant. Intense course, hard work and long hours but was really enjoying it. Was looking forward to future modules on visualisation and machine learning. CodeClan gave students access to the course materials we woild have received so Ill carry on self-learning from their content in the short term.
 
 ## What I want, what I really, *really* want. "I want" doesn't get, so pretty please 🙏
 
