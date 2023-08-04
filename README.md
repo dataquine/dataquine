@@ -3,11 +3,15 @@
 
 Scottish senior web and software developer now exploring whether the third act of my professional life is working with data.
 
-A career changer currently retraining with the [@CodeClan](https://github.com/codeclan) [Professional Data Analysis](https://codeclan.com/courses/data-analysis/) DR22 remote cohort.
+> The best laid schemes o’ Mice an’ Men
+          Gang aft agley
+
+A career changer. I was 4 weeks into a 14 week course retraining with the [@CodeClan](https://github.com/codeclan) [Professional Data Analysis](https://codeclan.com/courses/data-analysis/) DR22 remote cohort when CodeClan sadly went into liquidation.
+So I have a beginner level of R with data wrangling and cleaning but no certificate to show fir ut. Was looking forward to future modules on visualisation and machine learning. CodeClan gave students avcess to the course materials we woild have received so Ill carry on self-learning from theur content in the short term.
 
 ## What I want, what I really, *really* want. "I want" doesn't get, so pretty please 🙏
 
-Currently unemployed due to cuts in government funding of charities and looking for work after the data course from around November 2023 onwards either in #Glasgow or preferably remote. #Disabled and have found working from home since #COVID-19 tremendously enabling as it reduces some barriers for me.
+Currently unemployed due to cuts in government funding of charities and looking for work either in #Glasgow or preferably remote. #Disabled and have found working from home since #COVID-19 tremendously enabling as it reduces some barriers for me.
 
 ***Ideally*** meaningful work that tackles inequality and/or improves the lives of people in #Scotland. 
 Previously I've worked in #Education, #SocialWork and #SocialCare sectors, all have been incredibly rewarding in ways other than money.
