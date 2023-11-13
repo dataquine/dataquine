@@ -1,23 +1,24 @@
 # Lesley Duff aka Data Quine
 ## Who am I? 🙋🏻‍♀️
 
-Scottish senior web and software developer now exploring whether the third act of my professional life is working with data.
+Scottish senior web and software developer now exploring whether the third act of my professional life is working with data. 
+Currently unemployed and looking for my next role.
 
 ## What's the plan?
 
 > The best laid schemes o’ Mice an’ Men
           Gang aft agley
 
-A career changer. I was 4 weeks into a 14 week course retraining with the [@CodeClan](https://github.com/codeclan) [Professional Data Analysis](https://codeclan.com/courses/data-analysis/) DR22 remote cohort when CodeClan sadly went into liquidation [BBC News: Digital skills academy CodeClan goes into liquidation](https://www.bbc.co.uk/news/uk-scotland-scotland-business-66407025). So I have a beginner level of R with data wrangling and cleaning so far  The instructors were brilliant. Intense course, hard work and long hours but was really enjoying it. Was looking forward to future modules on visualisation and machine learning. Through Scottish government intervention teaching will resume 21 Aug 2023 via a different company CodeBase but with some of the same instructors.
+A career changer. I was 4 weeks into a 14 week course retraining with the [@CodeClan](https://github.com/codeclan) [Professional Data Analysis](https://codeclan.com/courses/data-analysis/) DR22 remote cohort when CodeClan sadly went into liquidation [BBC News: Digital skills academy CodeClan goes into liquidation](https://www.bbc.co.uk/news/uk-scotland-scotland-business-66407025). The instructors were brilliant. Through Scottish government intervention the course continued via a different company CodeBase but with some of the same instructors.
 
 ## What I want, what I really, *really* want. "I want" doesn't get, so pretty please 🙏
 
-Currently unemployed due to cuts in government funding of charities and looking for work either in #Glasgow or preferably remote. #Disabled and have found working from home since #COVID-19 tremendously enabling as it reduces some barriers for me.
+Unemployed due to cuts in government funding of charities and looking for work either in #Glasgow or preferably #Remote. #Disabled and have found working from home since #COVID-19 tremendously enabling as it reduces some barriers for me.
 
 ***Ideally*** meaningful work that tackles inequality and/or improves the lives of people in #Scotland. 
 Previously I've worked in #Education, #SocialWork and #SocialCare sectors, all have been incredibly rewarding in ways other than money.
 
-Open minded as to role e.g. #DataAnalyst, #DataScientist or #DataEngineer whatever else as a label but deluged with data. Current skills more at the engineering end but I'm doing my best to learn what I can of the other disciplines and will continue to find out about whatever is necessary to do the job at hand. I practice what I preach regarding lifelong learning - self-funded on this course so I put my money where my mouth is.
+Open minded as to role or job title, I'm a developer to my core but now with added skills in data manipulation. Would love to use code where I'm deluged with data. Current skills more at the engineering end but I'm doing my best to learn what I can of the other disciplines and will continue to find out about whatever is necessary to do the job at hand. I practice what I preach regarding lifelong learning - self-funded on the data analytics course so I put my money where my mouth is.
 
 ## What are my super powers? 🦸🏻‍♀️
 
