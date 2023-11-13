@@ -2,14 +2,14 @@
 ## Who am I? 🙋🏻‍♀️
 
 Scottish senior web and software developer now exploring whether the third act of my professional life is working with data. 
-Currently unemployed and looking for my next role.
+Currently unemployed and looking for my next role. Graduate of the (last ever!) [@CodeClan](https://github.com/codeclan) [Professional Data Analysis](https://codeclan.com/courses/data-analysis/) course, DR22 remote cohort.
 
 ## What's the plan?
 
 > The best laid schemes o’ Mice an’ Men
           Gang aft agley
 
-A career changer. I was 4 weeks into a 14 week course retraining with the [@CodeClan](https://github.com/codeclan) [Professional Data Analysis](https://codeclan.com/courses/data-analysis/) DR22 remote cohort when CodeClan sadly went into liquidation [BBC News: Digital skills academy CodeClan goes into liquidation](https://www.bbc.co.uk/news/uk-scotland-scotland-business-66407025). The instructors were brilliant. Through Scottish government intervention the course continued via a different company CodeBase but with some of the same instructors.
+A career changer. I was 4 weeks into a 14 week course retraining when CodeClan sadly went into liquidation [BBC News: Digital skills academy CodeClan goes into liquidation](https://www.bbc.co.uk/news/uk-scotland-scotland-business-66407025). The instructors were brilliant. Through Scottish government intervention the course continued via a different company CodeBase but with some of the same instructors.
 
 ## What I want, what I really, *really* want. "I want" doesn't get, so pretty please 🙏
 
