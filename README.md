@@ -2,7 +2,7 @@
 ## Who am I? 🙋🏻‍♀️
 
 Scottish senior web and software developer now exploring whether the third act of my professional life is working with data. 
-Currently unemployed and looking for my next role. Graduate of the (last ever!) [@CodeClan](https://github.com/codeclan) Professional Data Analysis <!--(https://codeclan.com/courses/data-analysis/)--> course, DR22 remote cohort.
+Currently unemployed and looking for my next role. Graduate of the (last ever!) [@CodeClan](https://github.com/codeclan) Professional Data Analysis <!--(https://codeclan.com/courses/data-analysis/)--> course, DR22 remote cohort. From this course I have obtained a Professional Development Award in Data Science, SCQF Level 8.
 
 ## What's the plan?
 
