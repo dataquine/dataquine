@@ -35,7 +35,7 @@ Open minded as to role or job title, I'm a developer to my core but now with add
 PS It's "Data Quine" not "Date a Quine". *Quite*, ***quite*** different.
 
 ## Tell me more, tell me more
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Lesley Duff on LinkedIn](https://www.linkedin.com/in/lesleyduff "You have seriously good taste if you've come this far and want more")
+[Lesley Duff on LinkedIn](https://www.linkedin.com/in/lesleyduff "You have seriously good taste if you've come this far and want more")
 
 <!---
 dataquine/dataquine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
